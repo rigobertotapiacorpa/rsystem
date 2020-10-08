@@ -103,10 +103,7 @@
 									<a class="button" href="#" > <img style="width: 50%; " id = "ingenieria" src="img/ingenieria_pl.png" alt="">
 										<h5>Ingenier&iacute;a</h5>
 										<p>Levantamiento de informaci&oacute;n,
-											elaboraci&oacute;n de documentaci&oacute;n, incluye: planos de obra
-											(Canalizaciones, cableado y detalles de instalaci&oacute;n),
-											especificaciones t&eacute;cnicas, memoria descriptiva, gu&iacute;as de
-											ejecuci&oacute;n de proyecto, listas de materiales y equipos, etc</p>
+											elaboraci&oacute;n de documentaci&oacute;n</p>
 									</a>
 								</article>
 							</li>
@@ -116,8 +113,7 @@
 									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="estimacion" style="width: 50%; " src="img/estimacion_pl.png" alt="">
 										<h5>Estimaci&oacute;n</h5>
 										<p>Elaboraci&oacute;n del estimado de costos del
-											proyecto, incluye el estimado de equipos, el estimado de materiales, el
-											estimado de servicios y el estimado del tiempo de ejecuci&oacute;n </p>
+											proyecto, incluye el estimado de equipos y el estimado del tiempo de ejecuci&oacute;n </p>
 									</a>
 								</article>
 							</li>
@@ -126,11 +122,7 @@
 								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
 									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="ejecucion" style="width: 50%; " src="img/ejecucion_pl.png" alt="">
 										<h5>Ejecuci&oacute;n</h5>
-										<p>Procura de equipos y materiales, instalaci&oacute;n
-											de canalizaciones, instalaci&oacute;n de cableado, instalaci&oacute;n de
-											equipos, gerencia de proyectos, manejo de contratistas, programaci&oacute;n,
-											puesta en funcionamiento y prueba de equipos y sistemas y elaboraci&oacute;n
-											de planos como construido. </p>
+										<p>Procura de equipos y materiales, instalaci&oacute;n, puesta en marcha</p>
 									</a>
 								</article>
 							</li>
@@ -141,10 +133,10 @@
 								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
 									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="servicio" style="width: 50%; " src="img/servicio_pl.png" alt="">
 									
-									<h5>Servicio Post-Venta</h5>
+									<h5>Soporte</h5>
 
 									<p>Mantenimiento preventivo y correctivo de sistemas de
-											Automatizaci&oacute;n y de Seguridad para Edificaciones </p>
+											desarrollados</p>
 
 									</a>
 								</article>
@@ -204,7 +196,7 @@
 			<div class="container">
 				<!-- Heading -->
 				<div class="heading text-center">
-					<h4>Especialistas en todas estas Marcas</h4>
+					<h4>Especialistas en todas estas Tecnologías</h4>
 				</div>
 				<!-- Features -->
 
@@ -212,15 +204,15 @@
 					<div class="row no-margin">
 						<!-- LIST LEFT -->
 						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-							src="img/incenAccesoVigilacia.png" /></div>
+							src="img/f1.png" /></div>
 						<!-- LIST IMAGE -->
 
 						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-								src="images/iphone.png" /></div>
+								src="img/f3.png" /></div>
 						<!-- LIST ICON RIGHT -->
 
 						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-							src="img/ilumi_intru_eficien.png" /></div>
+							src="img/f2.png" /></div>
 					</div>
 				</div>
 			</div>

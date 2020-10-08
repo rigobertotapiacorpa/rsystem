@@ -625,11 +625,11 @@ header .navbar li.active a {
 	letter-spacing:9px;
 }
 .home-slide .slide-img-1 {
-	background: url(../images/slides/slide-1.jpg) no-repeat;
+	background: url(../images/slides/ban3.jpg) no-repeat;
 	background-size: cover;
 }
 .home-slide .slide-img-2 {
-	background: url(../images/slides/slide-2.jpg) center center no-repeat;
+	background: url(../images/slides/slide2.jpg) center center no-repeat;
 	background-size: cover;
 }
 .home-slide .flex-control-nav {
@@ -654,7 +654,7 @@ header .navbar li.active a {
       SUB BANNER
 ========================================================*/
 .sub-bnr {
-	background: url(../images/bg/sub-bnr-bg.jpg) no-repeat;
+	background: url(../images/slides/ban3.jpg) no-repeat;
 	background-size: cover;
 	min-height: 380px;
 	text-align: center;
