@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 	<meta name="author" content="M_Adnan">
-	<title>BENSYS S.R.L</title>
+	<title>R-SYSTEM</title>
 	<!-- Favicon -->
 	<link href="images/favicon.ico" rel="icon" sizes="16x16" type="image/png" /><!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" /><!-- Custom CSS -->
@@ -16,11 +16,8 @@
 	<link href="css/main.css" rel="stylesheet" />
 	<link href="css/style.css" rel="stylesheet" />
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,600,800,200,500" rel="stylesheet" type="text/css" />
-	<link
-		href="https://fonts.googleapis.com/css?family=Open+Sans:400,600italic,400italic,300,300italic,600,700,700italic,800,800italic"
-		rel="stylesheet" type="text/css" />
-	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700" rel="stylesheet"
-		type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600italic,400italic,300,300italic,600,700,700italic,800,800italic" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400italic,400,700" rel="stylesheet" type="text/css" />
 
 
 
@@ -29,20 +26,20 @@
 	<script src="js/modernizr.js"></script>
 	<style>
 		.services article a {
-	background: #f7f7f7;
-	padding: 60px 45px;
-	border-bottom: 2px solid #e6e6e6;
-	text-align: center;
-	display: inline-block;
-	width: 100%;
-	height: 440px;
-	margin-bottom: 30px;
-	-webkit-transition: 0.4s ease-in-out;
-	-moz-transition: 0.4s ease-in-out;
-	-ms-transition: 0.4s ease-in-out;
-	-o-transition: 0.4s ease-in-out;
-	transition: 0.4s ease-in-out;
-}
+			background: #f7f7f7;
+			padding: 60px 45px;
+			border-bottom: 2px solid #e6e6e6;
+			text-align: center;
+			display: inline-block;
+			width: 100%;
+			height: 440px;
+			margin-bottom: 30px;
+			-webkit-transition: 0.4s ease-in-out;
+			-moz-transition: 0.4s ease-in-out;
+			-ms-transition: 0.4s ease-in-out;
+			-o-transition: 0.4s ease-in-out;
+			transition: 0.4s ease-in-out;
+		}
 	</style>
 </head>
 
@@ -56,8 +53,7 @@
 				<div class="sticky">
 					<div class="container">
 						<!-- LOGO -->
-						<div class="logo"><a href="index.html"><img alt="" class="img-responsive"
-									src="images/log.png" /></a></div>
+						<div class="logo"><a href="index.html"><img alt="" class="img-responsive" src="images/log.png" /></a></div>
 						<!-- MENU NAVEGACION -->
 
 						<ul class="nav ownmenu">
@@ -99,8 +95,8 @@
 						<div class="row">
 							<!-- Ingenieria -->
 							<li class="col-md-4">
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" > <img style="width: 50%; " id = "ingenieria" src="img/ingenieria_pl.png" alt="">
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#"> <img style="width: 50%; " id="ingenieria" src="img/ingenieria_pl.png" alt="">
 										<h5>Ingenier&iacute;a</h5>
 										<p>Levantamiento de informaci&oacute;n,
 											elaboraci&oacute;n de documentaci&oacute;n</p>
@@ -109,8 +105,8 @@
 							</li>
 							<!-- Estimacion -->
 							<li class="col-md-4">
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="estimacion" style="width: 50%; " src="img/estimacion_pl.png" alt="">
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#" id="aRuta" style="pointer-events: none;"> <img id="estimacion" style="width: 50%; " src="img/estimacion_pl.png" alt="">
 										<h5>Estimaci&oacute;n</h5>
 										<p>Elaboraci&oacute;n del estimado de costos del
 											proyecto, incluye el estimado de equipos y el estimado del tiempo de ejecuci&oacute;n </p>
@@ -119,8 +115,8 @@
 							</li>
 							<!-- Ejecucion-->
 							<li class="col-md-4">
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="ejecucion" style="width: 50%; " src="img/ejecucion_pl.png" alt="">
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#" id="aRuta" style="pointer-events: none;"> <img id="ejecucion" style="width: 50%; " src="img/ejecucion_pl.png" alt="">
 										<h5>Ejecuci&oacute;n</h5>
 										<p>Procura de equipos y materiales, instalaci&oacute;n, puesta en marcha</p>
 									</a>
@@ -130,37 +126,37 @@
 						<div class="row">
 							<!-- Servicio Post Venta -->
 							<li class="col-md-4">
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="servicio" style="width: 50%; " src="img/servicio_pl.png" alt="">
-									
-									<h5>Soporte</h5>
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#" id="aRuta" style="pointer-events: none;"> <img id="servicio" style="width: 50%; " src="img/servicio_pl.png" alt="">
 
-									<p>Mantenimiento preventivo y correctivo de sistemas de
+										<h5>Soporte</h5>
+
+										<p>Mantenimiento preventivo y correctivo de sistemas de
 											desarrollados</p>
 
 									</a>
 								</article>
 							</li>
 							<!-- Consultoria -->
-							<li class="col-md-4" >
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="consultoria" style="width: 50%; " src="img/consultoria_pl.png" alt="">
-								
-									<h5>Consultor&iacute;a</h5>
+							<li class="col-md-4">
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#" id="aRuta" style="pointer-events: none;"> <img id="consultoria" style="width: 50%; " src="img/consultoria_pl.png" alt="">
 
-									<p>Asesor&iacute;a t&eacute;cnica en el dise&ntilde;o y
+										<h5>Consultor&iacute;a</h5>
+
+										<p>Asesor&iacute;a t&eacute;cnica en el dise&ntilde;o y
 											ejecuci&oacute;n de los proyectos</p>
-										 </a>
+									</a>
 								</article>
 							</li>
 							<!-- Inspeccion -->
 							<li class="col-md-4">
-								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)" >
-									<a class="button" href="#" id="aRuta" style="pointer-events: none;" > <img id="inspeccion" style="width: 50%; " src="img/inspeccion_pl.png" alt="">
-								
-									<h5>Inspecci&oacute;n</h5>
+								<article class="thumbnail" onmouseover="cambiarImagen(this);" onmouseout="imagenPorDefecto(this)">
+									<a class="button" href="#" id="aRuta" style="pointer-events: none;"> <img id="inspeccion" style="width: 50%; " src="img/inspeccion_pl.png" alt="">
 
-									<p>Inspecci&oacute;n de obras para verificar que las
+										<h5>Inspecci&oacute;n</h5>
+
+										<p>Inspecci&oacute;n de obras para verificar que las
 											mismas se ejecuten seg&uacute;n las mejores pr&aacute;cticas y
 											est&aacute;ndares de calidad requeridos.</p>
 									</a>
@@ -203,16 +199,13 @@
 				<div class="list-style-featured">
 					<div class="row no-margin">
 						<!-- LIST LEFT -->
-						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-							src="img/f1.png" /></div>
+						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive" src="img/f1.png" /></div>
 						<!-- LIST IMAGE -->
 
-						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-								src="img/f3.png" /></div>
+						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive" src="img/f3.png" /></div>
 						<!-- LIST ICON RIGHT -->
 
-						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive"
-							src="img/f2.png" /></div>
+						<div class="col-md-4 text-center no-padding"><img alt="" class="img-responsive" src="img/f2.png" /></div>
 					</div>
 				</div>
 			</div>
@@ -234,7 +227,7 @@
 				<div class="row">
 					<!-- ABOUT -->
 					<div class="col-md-12"><img alt="" src="images/log.png" />
-						<p>10mo Anillo, Av. El Retoño.  Santa Cruz &ndash; Bolivia.
+						<p>10mo Anillo, Av. El Retoño. Santa Cruz &ndash; Bolivia.
 						</p>
 
 						<p>76681436</p>
@@ -263,17 +256,47 @@
 			</div>
 		</footer>
 	</div>
+	<!-- Load Facebook SDK for JavaScript -->
+	<div id="fb-root"></div>
+	<?php $nroCel = $columna->telefono;
+	$celular = "https://api.whatsapp.com/send?phone=591" . $nroCel . "&text=Hola!&nbsp;tengo&nbsp;información&nbsp;sobre&nbsp;su&nbsp;reporte&nbsp;en&nbsp;la&nbsp;pagina&nbsp;de&nbsp;EXTRAVIOS_ENCUENTROS";
+	?>
+	<a target="_blank" href="https://api.whatsapp.com/send?phone=59165291516&text=Hola!&nbsp;tengo&nbsp;información&nbsp;sobre&nbsp;su&nbsp;reporte&nbsp;en&nbsp;la&nbsp;pagina&nbsp;de&nbsp;EXTRAVIOS_ENCUENTROS">
+		<img style="width: 40px; height: 40px;" src="img/whatsapp.png" class="px-1 img-fluid card-img-top" alt="Responsive image">
+	</a>
 	<script>
-		function cambiarImagen(e){
+		window.fbAsyncInit = function() {
+			FB.init({
+				xfbml: true,
+				version: 'v8.0'
+			});
+		};
+
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<!-- Your Chat Plugin code -->
+	<div class="fb-customerchat" attribution=setup_tool page_id="104061394823251" greeting_dialog_display="fade">
+	</div>
+	<script>
+		function cambiarImagen(e) {
 			let nodes = e.childNodes;
 			let idImage = nodes[1].firstElementChild.id;
-			let ruta = "img/"+idImage+"_bl.png";
-			document.getElementById(idImage).src = "img/"+idImage+"_bl.png";
+			let ruta = "img/" + idImage + "_bl.png";
+			document.getElementById(idImage).src = "img/" + idImage + "_bl.png";
 		}
-		function imagenPorDefecto(e){
+
+		function imagenPorDefecto(e) {
 			let nodes = e.childNodes;
 			let idImage = nodes[1].firstElementChild.id;
-			document.getElementById(idImage).src = "img/"+idImage+"_pl.png";
+			document.getElementById(idImage).src = "img/" + idImage + "_pl.png";
 		}
 	</script>
 </body>
